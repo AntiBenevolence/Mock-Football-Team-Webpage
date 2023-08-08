@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap");
+
+body {
+  background-color: #344a72;
+  background: transparent no-repeat center;
+  background-size: cover;
+  background-image: url("imgs/20181207scPennHills-16-1-1562184249.jpeg");
+
+  font-family: "Poppins", sans-serif;
+}
+
+.signup-box {
+  width: 360px;
+  height: 820px;
+  margin: auto;
+  background-color: white;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+
+.signup-box:hover {
+  opacity: 1;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+h4 {
+  text-align: center;
+}
+
+form {
+  width: 300px;
+  margin-left: 20px;
+}
+
+form label {
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+form input {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border: 1px solid #808080;
+  border-radius: 6px;
+  outline: none;
+}
+input[type="submit"] {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #ff0000;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+
+.submit {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #ff0000;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+
+.submit:hover {
+  cursor: pointer;
+  background-color: #ff000089;
+}
+
+p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 15px;
+}
+
+.para-2 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  margin-top: -10px;
+}
+.para-2 a {
+  color: #ff0000;
+}
+
+.message {
+  display: inline-block;
+  width: 320px;
+}

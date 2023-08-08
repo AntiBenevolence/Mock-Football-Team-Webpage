@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 0, 0, 0.532)),
+    url(imgs/20211112BRHSGatewayPH7-3-1636843405.jpeg);
+  background-position: center;
+  background-size: cover;
+  padding: 0 8%;
+  position: relative;
+}
+
+.content {
+  top: 50%;
+  position: absolute;
+  transform: translateY(-50%);
+  color: rgb(255, 255, 255);
+}
+
+.content h1 {
+  font: size 128px;
+  font: weight 600px;
+}
+
+.container h1 span {
+  color: gold;
+}
+
+.content button {
+  background: transparent;
+  border: 2px solid white;
+  outline: none;
+  padding: 12px 25px;
+  color: white;
+  align-items: center;
+  margin-top: 30px;
+
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.content button:hover {
+  background: rgb(255, 255, 255);
+  color: grey;
+}
+
+.launch-time {
+  display: flex;
+}
+
+.launch-time div {
+  flex-basis: 100px;
+}
+
+.launch-time div p {
+  font-size: 60px;
+  margin-bottom: -14px;
+}
