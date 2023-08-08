@@ -43,3 +43,32 @@ This project offers the following features:
 
 - **Player Profile Page:** A dedicated player profile page is available, enabling the addition and management of players' information. Users with the appropriate permissions can log player details such as name, position, and statistics. This feature provides a comprehensive overview of the team's roster.
 
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, you can do so by:
+
+- Adding your own twist: Feel free to add your creative ideas and enhancements to the project. You can contribute new features, improve existing functionality, or suggest innovative design elements.
+
+- Identifying areas for improvement: If you come across any areas of the project that you believe can be enhanced or optimized, please don't hesitate to share your thoughts. Your feedback and suggestions are valuable in making this project better.
+
+To contribute to this project, follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your contributions.
+3. Make your changes, additions, or improvements to the project.
+4. Commit your changes and push them to your forked repository.
+5. Submit a pull request detailing your changes and describing the purpose of your contribution.
+
+Please ensure that your contributions align with the project's goals and coding conventions. Your assistance and ideas are greatly appreciated!
+
+
+## License
+
+None
+
+## Contact
+
+If you have any questions, suggestions, or feedback regarding this project, please feel free to reach out. You can contact me via email at [ceedee_free@yahoo.com] 
+
+I am open to discussions, collaboration opportunities, and any inquiries you may have. Don't hesitate to get in touch!
