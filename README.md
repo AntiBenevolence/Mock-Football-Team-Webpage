@@ -18,7 +18,7 @@ Feel free to explore the project files to see how I've brought together design e
 
 To install and use this project, follow these steps:
 
-1. Download the project files from the [repository] [(https://github.com/DrDepressed/Mock-Football-Team-Webpage)].
+1. Download the project files from the [repository] [(https://github.com/DrDebug/Mock-Football-Team-Webpage)].
 2. Extract the downloaded files to your desired location.
 
 That's it! You have successfully installed the project.
